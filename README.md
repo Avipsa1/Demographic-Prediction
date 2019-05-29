@@ -18,3 +18,5 @@ gender from their GPS locations.
 
 "A Machine Learning Approach to Demographic Prediction using Geohashes." , Roy, Avipsa and Pebesma, Edzer ,
 Proceedings of the 2nd International Workshop on Social Sensing. ACM, 2017.
+
+![https://zenodo.org/badge/DOI/10.5281/zenodo.3234898.svg]
